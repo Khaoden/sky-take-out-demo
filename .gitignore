@@ -1,5 +1,6 @@
 **/target/
 .idea
+.xcodemap
 *.iml
 *.class
 *Test.java
